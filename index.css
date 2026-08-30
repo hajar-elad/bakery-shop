@@ -10,7 +10,7 @@ body {
     position: relative;
     color: rgb(192, 109, 58);
     width: 100%;
-    height: 90vh;
+    
     display: flex;
     justify-content: center;
     background-image: linear-gradient(to right, rgb(248, 195, 129), bisque, rgb(218, 164, 98));
